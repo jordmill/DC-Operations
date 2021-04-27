@@ -29,5 +29,5 @@ Once done, set your auth token and start your Ngrok tunnel.
 ## Execute Chatbot
 You can now start the Chatbot via:
 ```
-python chatbot/webex_teams_bot2.py
+python webex_teams_bot2.py
 ```
